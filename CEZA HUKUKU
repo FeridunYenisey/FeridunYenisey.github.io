@@ -1,0 +1,72 @@
+
+
+<html>
+
+<style>
+a { text-decoration: none; color:#003366; font-weight:400;}
+a:visited { text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:focus { text-decoration: underline; }
+a:hover, a:active { text-decoration: underline; }
+
+
+p {margin: 10px 5px 15px 20px; text-decoration: none; color:#000000; font-weight:500;}
+
+
+
+
+</style>
+<head>
+   <title>Ceza Hukuku Mevzuatı (Tosuncuk)</title>
+</head>
+    
+<body>
+
+<BODY BGCOLOR="#FFFFFF">
+    <h3 style="font-weight: normal;"><a href="index.html">Anasayfa'ya geri dön</a></h3>
+
+
+<font size=+1, family="cursive">
+  
+  
+  
+  
+  
+  <head>
+   <title>CEZA HUKUKU</title>
+  </head>
+  
+  
+  <body>
+  <font size=+1, family="cursive">
+  <h1>Ceza Hukuku Mevzuatı (Tosuncuk)</h1>
+  
+
+  
+  
+  
+  <ul>
+ <li>  <h3 style="font-weight: normal;"><a href="kollukhukuku.html">I. Kolluk Hukuku</a></h3></li>
+ <li>  <h3 style="font-weight: normal;"><a href="cmuhhukuku.html">II. Ceza Muhakemesi Hukuku</a></h3></li>
+ <li>  <h3 style="font-weight: normal;"><a href="infazhukuku.html">III. İnfaz Hukuku</a></h3></li>
+ <li>  <h3 style="font-weight: normal;"><a href="milcezahukuku.html">IV. Milletlerarası Ceza Hukuku</a></h3></li>
+ <li>  <h3 style="font-weight: normal;"><a href="transnationallaw.html">V. Transnational Law</a></h3></li>
+ <li>  <h3 style="font-weight: normal;"><a href="reformlar.html">VI. Reformlar</a></h3></li>
+ <li>  <h3 style="font-weight: normal;"><a href="afethukuku.html">VII. Afet Hukuku</a></h3></li>
+
+    </ul>
+  
+  
+  
+  
+</body>  
+</html>
+
+
+
+
+
+
+
+
+
